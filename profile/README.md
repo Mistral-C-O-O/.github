@@ -1,5 +1,5 @@
 <a href="https://www.artsy.net/">
-  <img align="left" src="https://avatars2.githubusercontent.com/u/546231?s=200&v=4"/>
+  <img align="left" src="https://github.com/user-attachments/assets/a9d83085-1920-42e8-a6ec-b76dba02d137"/>
 </a>
 
 This project is the work of engineers at [Artsy][footer_website], the world's leading and largest online art
